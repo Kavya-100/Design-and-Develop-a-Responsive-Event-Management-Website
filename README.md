@@ -1,4 +1,4 @@
-# EvnentHub - Modern Event Management Platform 🎫
+# EventHub - Modern Event Management Platform 🎫
 
 A modern, visually appealing, and fully responsive event management website built with React and Tailwind CSS. This platform allows users to explore upcoming events, view detailed information, and seamlessly register for their preferred experiences.
 
